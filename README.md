@@ -27,6 +27,8 @@ Just right click on "EXIF Renamer.ps1" and select "Run with PowerShell" or run 
 
 ## Roadmap
 
+* 2026-07-20: Add: new script (Update Date in filename.ps1) to modify the filename of an image
+   (if the metadata is incorrect, you can rename the file by adding the missing years/months/days)
 * 2025-07-26: Add: button (Clear) to clear all items from the ListView
 * 2025-07-26: Add: button (Load files) and procedure to load files (3fr, arw, cr2, crw, dng, erf, kdk, orf, mef, mos, mrw, nef, orf, pef, raf, raw, rw2, srw, x3f)
 * 2025-07-25: Add: check exiftool.exe path (if not found, browse for folder and save path to a text file)
